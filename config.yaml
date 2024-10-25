@@ -1,0 +1,58 @@
+projectName: 'The Future of Network Security: Navigating the Evolving Threat Landscape'
+jsonFilePath: ./input.json
+baseUrl: https://gracker.ai
+portalHeading: Transform Your Cybersecurity Strategy with GrackerAI
+portalDescription: >-
+  World's first AI-driven growth engine for cybersecurity B2B SaaS. Engage
+  prospects, demonstrate expertise, and fuel expansion through customized,
+  data-backed content strategies.
+portalTitle: 'GrackerAI: AI-Powered SEO Solutions for Cybersecurity'
+searchPlaceholder: Search for insights and strategies
+useAlphabetsCategory: true
+homeLink: https://gracker.ai
+logoLink: /
+ctaText: Get started — it's free
+aboutLink: https://gracker.ai/about/
+productsLink: https://gracker.ai/tools/
+logoImgUrl: https://gracker.ai/_astro/logo-white.DuNP12gY_Z22gpAz.svg
+ctaLink: https://portal.gracker.ai/
+copyrightText: '&copy; Copyright 2024, Gracker.'
+faviconUrl: https://gracker.ai/favicon.ico
+googleTagManagerId: GTM-MB8NQN6
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: LinkedIn
+    url: https://www.linkedin.com/company/gracker-ai/
+  - platform: Twitter
+    url: https://x.com/grackerAI
+  - platform: Instagram
+    url: https://www.instagram.com/grackerai/
+theme:
+  primaryColor: '#000000'
+  secondaryColor: '#ffffff'
+  backgroundColor: '#f5f5f5'
+  textColor: '#333333'
+  accentColor: '#FF5733'
+fonts:
+  - family: Bricolage Grotesque
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Poppins
+    weights:
+      - 400
+      - 500
+      - 600
